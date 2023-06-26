@@ -51,9 +51,13 @@ Version 2
 
 ## Use case
 
-DeepDive was built to assist cybersecurity researchers, federal investigators, private detectives and forensic investigators with darkweb investigations and fingerprinting threat actors therein. 
+DeepDive is being developed to assist cybersecurity researchers, federal investigators, private detectives and forensic investigators with darkweb investigations and fingerprinting threat actors therein. 
 
 
 ## Special Notes
 
-DeepDive was built dual purpose. Iniitally as a tool to help as described above as well as its secondary purpose, to p*** off the attacker who revels in attacking on of my machines by hopefully making it much harder to obtain their tools. Thats rights buddy, this one's for you.
+DeepDive was designed dual purpose. Iniitally as a tool to help as described above as well as its secondary purpose, 
+
+"to p*** off the attacker who revels in attacking one of my machines by hopefully making it much harder to obtain their tools. 
+
+**That's right buddy, this one's for you**."
