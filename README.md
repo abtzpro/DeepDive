@@ -27,6 +27,16 @@ To use this script, the user would need to input a starting .onion URL and searc
 
 Keep in mind, though, that web scraping and crawling, especially on the darkweb, may have ethical and legal considerations. Always ensure you are respecting privacy and following the law when using this script.
 
+## Update v1.2 Features
+
+- This script uses both requests and selenium to scrape URLs, and then stores these URLs in a PostgreSQL database. The script also creates a link mapping by recursively crawling through the URLs it finds, and these mappings are also stored in the database.
+-
+- The script uses a combination of Tor and Selenium to interact with .onion websites, often found on the dark web. It also handles exceptions and errors that might occur during the web scraping and database operations.
+-
+- The main() function drives the execution of the script by asking the user for an input URL and search keywords, performing the scraping, storing URLs, crawling links, and storing link mappings. The script then closes the database connection before exiting.
+
+**As always, be sure to replace placeholders like “your_host”, “your_database”, “your_username”, and “your_password” with your actual PostgreSQL database details.**
+
 ## Features added soon in V2
 
 Version 2
