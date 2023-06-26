@@ -1,6 +1,9 @@
 # DeepDive
 A Darkweb forensic investigative tool in python
 
+## Disclaimer
+DeepDive is still in active development and as such requires an immense level of testing and streamlining before it can be considered a final product. 
+
 ## Description (With help from AI)
 
 This script is designed to perform web scraping and crawling on the darkweb, specifically targeting sites that end in .onion, which are accessible via the Tor network.
